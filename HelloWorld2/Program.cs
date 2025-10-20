@@ -8,8 +8,9 @@ namespace HelloWorld2
         {
             string name = "Joe";
             Console.WriteLine("Hello " + name);
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World 1!");
+            Console.WriteLine("Hello World 2!");
+            Console.WriteLine("Hello Git!");
         }
     }
 }
